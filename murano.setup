@@ -1,0 +1,4 @@
+cp /home/stack/murano/contrib/devstack/lib/murano /home/stack/devstack/lib
+cp /home/stack/murano/contrib/devstack/lib/murano-dashboard /home/stack/devstack/lib
+cp /home/stack/murano/contrib/devstack/extras.d/70-murano.sh /home/stack/devstack/extras.d
+
